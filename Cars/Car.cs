@@ -9,7 +9,7 @@ namespace Cars
     internal class Car
     {
         public string Type { get; set; } //Тип ТС
-        public float Сonsumption { get; set; } //Средний расхд топлива
+        public float Сonsumption { get; set; } //Средний расход топлива
         public int VolumeOfTheTank { get; set; } //Объём топливного бака
         public float Speed { get; set; } // Скорость
         public float ReservePower { get; set; } //Запас хода
